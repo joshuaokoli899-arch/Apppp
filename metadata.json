@@ -1,0 +1,5 @@
+{
+  "name": "Android Build Simulator",
+  "description": "A web-based utility that simulates the conversion of Android project ZIP files into APK and AAB files using AI to generate realistic build logs and reports.",
+  "requestFramePermissions": []
+}
